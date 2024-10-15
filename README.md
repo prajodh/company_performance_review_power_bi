@@ -23,6 +23,8 @@ This repository contains a Power BI report analyzing the performance of Plant Co
 - **Prior Year to Date (PYTD) Performance**
 
 ### Visualizations:
+![image](https://github.com/user-attachments/assets/423b5789-61c0-44d3-a497-536bc55431fe)
+
 - **Treemap**: Visualizes hierarchical data for product categories and their contribution to total sales.
 - **ArcGIS Map**: Displays the geographic sales distribution, providing insight into regional performance.
 - **KPI Visuals**: Shows critical KPIs such as total sales and gross profit percentage, allowing management to track progress towards business goals.
