@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/66b75d81-7571-4529-8e24-8410403b18c2)
 
 # Plant Co Sales Performance Review Report
 
