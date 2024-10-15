@@ -1,6 +1,5 @@
-![image](https://github.com/user-attachments/assets/66b75d81-7571-4529-8e24-8410403b18c2)
-
 # Plant Co Sales Performance Review Report
+![image](https://github.com/user-attachments/assets/66b75d81-7571-4529-8e24-8410403b18c2)
 
 This repository contains a Power BI report analyzing the performance of Plant Co Sales. The report focuses on key business metrics such as gross profit percentage, sales, and quantity, offering comparisons between Year to Date (YTD) and Prior Year to Date (PYTD). The data visualization empowers stakeholders with insights into the company’s growth, profitability, and trends.
 
